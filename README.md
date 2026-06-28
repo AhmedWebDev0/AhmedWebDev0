@@ -1,11 +1,36 @@
-<div align="center" width="50">
+# Hi there, I'm Ahmed 👋
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Frontend+Web+Developer;Always+Learning+New+Things;Let's+Build+Something+Awesome!" alt="Typing SVG" />
+</p>
 
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+## 🚀 About Me
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
+* 💻 Frontend Web Developer
+* 🌱 Currently learning Python & JavaScript
+* 🎯 Passionate about building modern web applications
+* 📚 Always improving my coding skills
 
-</details>
+## 🛠️ Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</p>
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedDev7&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedDev7&theme=tokyonight" />
+</p>
+
+## 📫 Connect with Me
+
+* GitHub: https://github.com/AhmedDev7
+
+---
+
+⭐ Thanks for visiting my profile!
