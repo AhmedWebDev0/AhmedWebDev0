@@ -1,7 +1,10 @@
 # 👋 Hi there, I'm Ahmed
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;I'm+Ahmed;Frontend+Web+Developer;Python+Learner;Always+Learning+New+Things;Let's+Build+Something+Awesome!+🚀" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ahmed+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile;Frontend+Web+Developer;Learning+Python+and+JavaScript;Always+Learning+New+Things;Let's+Build+Something+Awesome!+%F0%9F%9A%80"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
