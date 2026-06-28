@@ -1,7 +1,12 @@
+قبل الاستخدام، هناك ملاحظة مهمة: في الرسالة السابقة تحولت الروابط إلى صيغة Markdown داخل وسوم `<img src="...">`، وهذا لن يعمل على GitHub. إليك نسخة **كود فقط** وجاهزة للنسخ إلى `README.md`:
+
 # 👋 Hi there, I'm Ahmed
 
-{"n":1}
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;I'm+Ahmed;Frontend+Web+Developer;Python+Learner;Always+Learning+New+Things;Let's+Build+Something+Awesome!+🚀" alt="Typing SVG" />
+</p>
 
+---
 
 ## 🙋 About Me
 
@@ -68,24 +73,5 @@
   </a>
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
-</p>
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedDev7&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedDev7&theme=tokyonight" />
-</p>
-
-## 📫 Connect with Me
-
-* GitHub: https://github.com/AhmedDev7
-
----
 
 ⭐ Thanks for visiting my profile!
