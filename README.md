@@ -1,9 +1,7 @@
 # 👋 Hi there, I'm Ahmed
 
-<p align="center">
-  <img src="./banner.svg" alt="Animated Banner">
-</p>
----
+{"n":1}
+
 
 ## 🙋 About Me
 
