@@ -1,19 +1,21 @@
+<div align="center">
+
+<img src="./assets/banner.png" alt="Ahmed Banner" width="100%" />
+
 # 👋 Hi there, I'm Ahmed
 
-<p align="center">
-  <img src="./assets/banner.png" alt="Ahmed Banner" width="100%" />
-</p>
+### Frontend Web Developer
 
-<h3 align="center">Frontend Web Developer</h3>
+</div>
 
 ---
 
 ## 🙋 About Me
 
-* 💻 Frontend Web Developer
-* 🌱 Currently learning Python and JavaScript
-* 🚀 Passionate about building modern web applications
-* 🎯 Goal: Become a Full Stack Developer
+- 💻 Frontend Web Developer
+- 🌱 Currently learning Python and JavaScript
+- 🚀 Passionate about building modern web applications
+- 🎯 Goal: Become a Full Stack Developer
 
 ---
 
@@ -28,7 +30,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AhmedDev7&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedDev7&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -36,7 +38,7 @@
 ## 🌍 Most Used Languages
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedDev7&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedDev7&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -59,11 +61,9 @@
 
 ## 📌 Featured Projects
 
-| Project                | Description                             |
-| ---------------------- | --------------------------------------- |
-| 🌐 Portfolio Website   | My personal portfolio website           |
-| 🐍 Python Projects     | Python practice and automation projects |
-| 💡 JavaScript Projects | Frontend JavaScript applications        |
+- 🌐 Portfolio Website
+- 🐍 Python Projects
+- 💡 JavaScript Projects
 
 ---
 
@@ -73,10 +73,4 @@
   <a href="https://github.com/AhmedDev7">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
 </p>
