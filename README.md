@@ -54,10 +54,19 @@
 
 <p align="center">
 
-<a href="https://github.com/AhmedDev7/Python-Calculator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedDev7&repo=Python-Calculator&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/AhmedWebDev0/Python-Calculator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedWebDev0&repo=Python-Calculator&theme=tokyonight&hide_border=true" />
 </a>
 
+<a href="https://github.com/AhmedWebDev0/Age-Calculator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedWebDev0&repo=Age-Calculator&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/AhmedWebDev0/Email-Slicer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedWebDev0&repo=Email-Slicer&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
 <a href="https://github.com/AhmedDev7/Age-Calculator">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedDev7&repo=Age-Calculator&theme=tokyonight&hide_border=true"/>
 </a>
