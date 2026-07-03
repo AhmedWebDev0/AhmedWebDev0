@@ -1,7 +1,6 @@
-<div align="center">
-
-<img src="./assets/banner.png" alt="Ahmed Banner" width="100%" />
-
+<p align="center">
+  <img src="./ChatGPT%20Image%20Jun%2029,%202026,%2012_53_23%20AM.png" alt="Ahmed Banner" width="100%">
+</p>
 # 👋 Hi there, I'm Ahmed
 
 ### Frontend Web Developer
