@@ -1,15 +1,16 @@
 <p align="center">
   <img src="./ChatGPT%20Image%20Jun%2029,%202026,%2012_53_23%20AM.png" alt="Ahmed Banner" width="100%">
 </p>
-# 👋 Hi there, I'm Ahmed
 
-### Frontend Web Developer
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Ahmed;Frontend+Web+Developer;Python+Learner;Future+Full+Stack+Developer;Welcome+To+My+GitHub+Profile!" alt="Typing SVG" />
+</h1>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=AhmedDev7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<h3 align="center">💻 Frontend Web Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AhmedDev7&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
-</div>
 
 ---
 
@@ -51,11 +52,31 @@
 
 # 📌 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🌐 Portfolio Website | My personal portfolio website |
-| 🐍 Python Projects | Practice and automation projects |
-| 💡 JavaScript Projects | Frontend web applications |
+<p align="center">
+
+<a href="https://github.com/AhmedDev7/Python-Calculator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedDev7&repo=Python-Calculator&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/AhmedDev7/Age-Calculator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedDev7&repo=Age-Calculator&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/AhmedDev7/Email-Slicer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedDev7&repo=Email-Slicer&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+---
+
+# 🎯 Current Goals
+
+- ✅ Master Python Fundamentals
+- 🔄 Learn Object-Oriented Programming
+- 🚀 Build 20+ Python Projects
+- 🌐 Learn JavaScript
+- 💼 Become a Full Stack Developer
 
 ---
 
@@ -73,4 +94,7 @@
 
 ### ⭐ Thanks for visiting my profile! ⭐
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=120&section=footer"/>
+
+</div>
 </div>
