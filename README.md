@@ -2,9 +2,7 @@
   <img src="./ChatGPT%20Image%20Jun%2029,%202026,%2012_53_23%20AM.png" alt="Ahmed Banner" width="100%">
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Ahmed;Frontend+Web+Developer;Python+Learner;Future+Full+Stack+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Ahmed;Frontend+Web+Developer;Python+Learner;Future+Full+Stack+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
 <h3 align="center">💻 Frontend Web Developer</h3>
 
