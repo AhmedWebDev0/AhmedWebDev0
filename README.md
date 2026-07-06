@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Ahmed;Frontend+Web+Developer;Python+Learner;Future+Full+Stack+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Ahmed;Frontend+Web+Developer;Python+Learner;Future+Full+Stack+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">💻 Frontend Web Developer</h3>
@@ -50,14 +50,12 @@
 
 ---
 
-# 📌 Featured Project
+# 📌 Featured Repository
 
 <p align="center">
-
-<a href="https://github.com/AhmedWebDev0/Python-Calculator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedWebDev0&repo=Python-Calculator&theme=tokyonight&hide_border=true" />
-</a>
-
+  <a href="https://github.com/AhmedWebDev0/AhmedWebDev0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedWebDev0&repo=AhmedWebDev0&theme=tokyonight&hide_border=true"/>
+  </a>
 </p>
 
 ---
@@ -87,5 +85,7 @@
 ### ⭐ Thanks for visiting my profile! ⭐
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=120&section=footer"/>
+
+</div>E90FF&height=120&section=footer"/>
 
 </div>
