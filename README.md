@@ -16,12 +16,7 @@
 
 # 🙋 About Me
 
-- 💻 Frontend Web Developer
-- 🌱 Currently learning Python and JavaScript
-- 🚀 Passionate about building modern web applications
-- 🎯 Goal: Become a Full Stack Developer
-- 📚 Always learning new technologies
-
+👋 Hi, I’m Ahmed, a middle school student passionate about programming and technology. I am currently learning Python, HTML, CSS, and JavaScript, and I work on small projects to hone my coding skills. I have completed the "CS50: Introduction to Computer Science" course, and I aspire to become a Full-Stack Web Developer through continuous learning and hands-on practice.
 ---
 
 # 🛠️ Tech Stack
